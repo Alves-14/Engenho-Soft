@@ -1,2 +1,11 @@
 # Engenho-Soft
-Este vai ser o moso projeto para engenharia de software 2
+Grupo composto por 4 pessoas:
+Nome do grupo: Hog Rider
+Ariana Cunha
+Andre Alves
+Eric Antonio
+Ricardo Afonso
+
+
+Este vai ser o nosso projeto para engenharia de software 2
+Projeto de desenvolvimento de uma plataforma educacional sobre culinária tendo um AI para satisfazer as duvidas dos clientes.
